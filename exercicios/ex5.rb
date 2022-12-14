@@ -30,3 +30,13 @@ j = "curso"
 # interpolação de variaveis
 k = “Jackson”
 puts “Seu nome é #{k}”
+
+#simbols são strings imutaveis
+
+puts “jackson”.object_id
+ puts “jackson”.object_id
+ puts “jackson”.object_id
+ #############
+ puts :jackson.object_id
+ puts :jackson.object_id
+ puts :jackson.object_id
