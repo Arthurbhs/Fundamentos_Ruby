@@ -25,3 +25,8 @@ v3.each do |externo|
     puts interno
     end
     end
+
+    #hash são como array mas você define o indice(chave)
+    h = {"x" => 15, "curso" => “rails”}
+
+     h[“curso”]
