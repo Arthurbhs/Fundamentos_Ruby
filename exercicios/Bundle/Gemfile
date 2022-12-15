@@ -1,0 +1,4 @@
+source 'hyyps://rubygems.org'
+
+gem 'cp_utils', "1.3.0"
+gem 'faker'
